@@ -1,0 +1,6 @@
+/.env
+/venv
+/.idea
+/token.txt
+/VoiceCog.py
+/oldrequirements.txt
